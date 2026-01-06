@@ -1,0 +1,11 @@
+Phone Number,Patient Name,Counsellor Name,Call More Than 2 Min,Location Asked ?,Patient Location,Betterway Explained ?,Doctor Allocated ?,Disease,Appointment Booked ?
+8053809278,Vishal Soni,Aman,TRUE,TRUE,N/A,TRUE,TRUE,"frozen shoulder, diabetes",TRUE
+7289957226,,Aman,TRUE,TRUE,Delhi,TRUE,FALSE,"skin issue, pigmentation",FALSE
+9873066786,Ashok,Aman,TRUE,TRUE,Delhi,TRUE,FALSE,"knee pain, meniscus tear",FALSE
+7303121987,Archana,Aman,TRUE,TRUE,Delhi,TRUE,TRUE,fibroids,TRUE
+9717166188,,Aman,TRUE,TRUE,Gurgaon,TRUE,FALSE,gallbladder stone,FALSE
+9811356770,,Aman,TRUE,TRUE,Others,FALSE,FALSE,,FALSE
+9899227755,,,FALSE,FALSE,N/A,FALSE,FALSE,,FALSE
+7887050663,Tara Devi,,FALSE,FALSE,N/A,FALSE,FALSE,,FALSE
+7011768825,Manju Soni,Aman,TRUE,TRUE,Delhi,TRUE,FALSE,knee problem,FALSE
+9275555105,,,FALSE,TRUE,Gurgaon,FALSE,FALSE,,FALSE
